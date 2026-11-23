@@ -1,0 +1,10 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+*.log
+
+# Entornos y configuración local
+.env
+.env.local
+.vscode/
+.idea/
